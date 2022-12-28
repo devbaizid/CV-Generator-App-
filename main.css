@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin:wght@300;400;500&display=swap");
 :root {
   --primaryColor: rgb(121, 157, 224);
-  --secondaryColor: whitesmoke;
+  --secondaryColor: blue;
   --inputColor: #d6e6e7a4;
 }
 
@@ -74,8 +74,8 @@ body {
 
 @media screen and (min-width: 940px) {
   .container {
-    margin-left: 25rem;
-    margin-right: 25rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
   }
 }
 
